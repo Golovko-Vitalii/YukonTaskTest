@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">YukonTaskTest</string>
+    <string name="collectionpeopleimpl">collectionPeopleImpl</string>
+    <string name="action_settings">About</string>
+    <string name="action_demo_data">DEMO DATA</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="phone">Phone</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="save">SAVE</string>
+    <string name="delete">DELETE</string>
+    <string name="action_clear_data">Clear Data</string>
+    <string name="ok">OK</string>
+    <string name="about">
+        =======\n
+        Android application to add, edit, delete people, students and teachers, from the local SQLite database.
+        Activity with a few fragments like people list and people editor fragments, using MVP pattern.
+        Asynchronous operations with database.  Support device orientation changes. Custom views.\n
+        The project is already on GitHub:\n
+        https://github.com/Golovko-Vitalii/YukonTaskTest\n
+        =======
+    </string>
+</resources>
